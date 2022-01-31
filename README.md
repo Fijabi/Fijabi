@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Fijabi
 - 👀 I’m interested in ... coding, building stuffs with pythod, html , css and javascript
-- 🌱 I’m currently learning ... python
+- 🌱 Python
+- currentling learning c#
 - 💞️ I’m looking to collaborate on ... learning and growing together
 - 📫 How to reach me ... gmail @ ofijabi@my.bcit.ca
 
