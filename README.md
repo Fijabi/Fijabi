@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fijabi
-- 👀 I’m interested in ... coding, building stuffs with pythod, html , css and javascript
-- 🌱 Python
-- currentling learning c#
+- 👀 I’m interested in ... Embeddes system programming in C, Python & Django for Backend web develoopemt
+- 🌱 Python,C,sytem verilog
+- currentling learning c
 - 💞️ I’m looking to collaborate on ... learning and growing together
 - 📫 How to reach me ... gmail @ ofijabi@my.bcit.ca
 
